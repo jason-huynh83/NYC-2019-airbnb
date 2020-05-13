@@ -20,6 +20,8 @@ For a deeper understanding and analysis on this project, please refer to the not
 ## Conclusion
 - From the prediction models I've developped I was able to conclude that the neighbourhood definitely has an impact on price. It was found to be more expensive to rent an Airbnb in Manhattan rather than anywhere else in NYC. From the model, it was said to be around $42 more expensive to rent an airbnb in Manhattan. 
 - The results can be shown in this dataframe below. To interpret these results, it can be said that for holding all variables fixed, a rent for an airbnb in Manhattan would cost you $42 more.
+
 ![](Images/Coef.PNG)
+
 - In addition, throughout this project, the most highly populated airbnb area was Manhattan. This makes sense as Manhattan is one of the most popular neighbourhoods and attracts significant amounts of tourists each year.
 - This question is a little more subjective in terms of affordability. It depends on what you're looking for, however, speaking in terms of just price, through this analysis it can be concluded that renting a shared room in Staten Island would cost you the least amount of money.
