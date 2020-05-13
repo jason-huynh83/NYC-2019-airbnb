@@ -10,11 +10,12 @@ In doing this project, I wanted to experiment and do a deep dive into the Airbnb
 
 These are some of the questions I will answer in my analysis.
 
-For a deeper understanding and analysis on this project, please refer to the notebook [here](https://github.com/jason-huynh83/NYC-2019-airbnb/blob/master/nyc_airbnb.ipynb)
+
 ## Findings
 - Below is are some graphs of airbnb's separated by each neighbourhood group (Manhattan, Brooklyn, Bronx, and Staten Island) and Room Types (Entire homes, private rooms, shared room)
 ![](Images/NYC.PNG)
 ![](Images/NYC2.PNG)
+
 For a deeper understanding and analysis on this project, please refer to the notebook [here](https://github.com/jason-huynh83/NYC-2019-airbnb/blob/master/nyc_airbnb.ipynb)
 
 ## Conclusion
